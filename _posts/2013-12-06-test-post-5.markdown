@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Test Post 5
-description: "This is some post about a thing. Check it out!"
+description: This is some post about a thing. Check it out!
 date: {}
 categories: test1 test2
 published: true
