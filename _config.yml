@@ -12,6 +12,6 @@ prose:
           value: "blog"
      - name: "description"
      	field:
-     	  element: text
-     	  type: text
+     	  element: "text"
+     	  type: "text"
      	  placeholder: "post description"
