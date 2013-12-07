@@ -2,7 +2,6 @@
 layout: post
 title:  "Test Post 2"
 description: "Short little excerpt."
-date:   2013-12-06 02:02:02
 categories: test1 test2
 ---
 

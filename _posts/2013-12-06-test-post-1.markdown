@@ -2,7 +2,6 @@
 layout: post
 title: Test Post 1
 description: A different post about some other stuff that you might not have thought about yet.
-date: 2013-12-06 02:02:02
 categories: test1 test2
 published: true
 ---

@@ -2,7 +2,6 @@
 layout: post
 title:  "Test Post 4"
 description: "Did you hear about this thing?"
-date:   2013-12-06 04:04:04
 categories: test1 test2
 ---
 
