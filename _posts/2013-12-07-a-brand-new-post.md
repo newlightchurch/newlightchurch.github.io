@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: A Brand New Post
 description: "Here's the description of another new post on the blog."
 ---
