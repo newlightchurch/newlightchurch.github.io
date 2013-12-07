@@ -18,4 +18,5 @@ prose:
         type: "text"
 	- name: "description"
 	  field:
-	    element: "textarea"
+	    element: "text"
+	    type: "text"
