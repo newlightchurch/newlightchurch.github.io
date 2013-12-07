@@ -2,5 +2,3 @@ name: newlight church
 markdown: redcarpet
 paginate: 4
 paginate_path: "blog/page:num"
-prose:
-  rooturl: '_posts'
