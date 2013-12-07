@@ -1,4 +1,5 @@
 name: newlight church
+tagline: a home church in the fox valley
 markdown: redcarpet
 paginate: 4
 paginate_path: "blog/page:num"
