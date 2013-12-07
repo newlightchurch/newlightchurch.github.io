@@ -6,15 +6,16 @@ paginate_path: "blog/page:num"
 prose:
   rooturl: '_posts'
   siteurl: 'http://newlightchurch.github.io/'
-  _posts:
-  	- name: "layout"
-      field:
-        element: "hidden"
-        value: "blog"
-  	- name: "title"
-  	  field:
-  	    element: "text"
-  	    type: "text"
-  	- name: "description"
-  	  field:
-  	    element: "textarea"
+  metadata:
+	  _posts:
+	  	- name: "layout"
+	      field:
+	        element: "hidden"
+	        value: "blog"
+	  	- name: "title"
+	  	  field:
+	  	    element: "text"
+	  	    type: "text"
+	  	- name: "description"
+	  	  field:
+	  	    element: "textarea"
