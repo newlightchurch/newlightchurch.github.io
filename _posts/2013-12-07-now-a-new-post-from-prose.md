@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Now a new post from prose
 description: a brand new description in the nifty field on prose.io
 ---
@@ -15,4 +15,3 @@ I created this file from scratch inside prose.io, so let's see how well it works
 
 and images!
 ![resurrection quote](/media/resurrection.jpg)
-
