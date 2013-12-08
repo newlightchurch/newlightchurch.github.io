@@ -14,4 +14,4 @@ I created this file from scratch inside prose.io, so let's see how well it works
 - like this
 
 and images!
-![resurrection quote](/media/resurrection.jpg)
+![resurrection.jpg](/media/resurrection.jpg)
