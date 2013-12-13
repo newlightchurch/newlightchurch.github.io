@@ -2,6 +2,7 @@
 layout: post
 published: false
 title: ""
+description: A new post with all the stuff in it.
 ---
 
 ## A subhead
