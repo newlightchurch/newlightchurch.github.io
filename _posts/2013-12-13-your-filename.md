@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: ""
+title: Another new post from Prose.io
 description: A new post with all the stuff in it.
 ---
 
