@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Another new post from Prose.io
 description: A new post with all the stuff in it.
 ---
@@ -28,4 +28,3 @@ An image
 Here is [a link](http://google.com)
 
 Some **bold** and _italicized_ text
-
