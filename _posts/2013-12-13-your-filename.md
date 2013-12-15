@@ -23,7 +23,7 @@ A pullquote
 > Someone said such and such and some time in history ~some guy
 
 An image
-![](/media/Jellyfish.jpg)
+![bokeh](/media/IMG_1576.jpg)
 
 Here is [a link](http://google.com)
 
