@@ -1,7 +1,7 @@
 ---
 layout: post
 description: ""
-published: false
+published: true
 title: Another new post
 ---
 
